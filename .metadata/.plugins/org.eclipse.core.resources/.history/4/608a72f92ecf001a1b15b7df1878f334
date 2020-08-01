@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.app.ws.mobileappws.shared.dto;
+
+public class AddressDto {
+
+}

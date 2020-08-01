@@ -1,0 +1,5 @@
+package com.appsdeveloperblog.app.ws.mobileappws.io.repostories;
+
+public interface AddressRepository {
+
+}

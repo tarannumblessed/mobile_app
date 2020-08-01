@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+E:\udemyproject\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3260255526.index
+2152845002.index
+2927782134.index
+250475034.index
+2774255232.index
+269535986.index

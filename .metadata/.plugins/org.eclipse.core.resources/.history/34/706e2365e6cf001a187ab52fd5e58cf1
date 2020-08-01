@@ -1,0 +1,11 @@
+package com.appsdeveloperblog.app.ws.mobileappws.io.repostories;
+
+import org.springframework.data.repository.CrudRepository;
+
+import com.appsdeveloperblog.app.ws.mobileappws.io.entity.AddressEntity;
+import com.appsdeveloperblog.app.ws.mobileappws.io.entity.UserEntity;
+
+public interface AddressRepository extends CrudRepository<AddressEntity,Long> {
+	AddressEntity findAllByUserDetails(UserEntity userEntity);
+
+}
